@@ -1,6 +1,6 @@
 // Code your solutions in this file
 
 function writeCards(arrayname, eventname){
-  for (let i=0; i++)
+  for (let i=0;i<arrayname.length;i++)
   
 }
