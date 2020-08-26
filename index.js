@@ -4,5 +4,4 @@ function writeCards(array, event){
   for (let i=0; i<arrayname.length; i++){
     
   }
-  
 }
