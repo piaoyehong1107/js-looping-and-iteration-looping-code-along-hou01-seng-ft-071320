@@ -2,7 +2,7 @@
 
 function writeCards(array, event){
   for (let i=0; i<arrayname.length; i++){
-   let newarry
+   let newarry=[]
    return newarry.push(`Thank you, ${array[i]}, for the wonderful ${event} gift!`)
   }
 }
