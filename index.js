@@ -8,4 +8,7 @@ function writeCards(array, event){
    return  newarry
 }
 
-function countDown
+function countDown(int){
+  
+}
+
