@@ -2,6 +2,6 @@
 
 function writeCards(array, event){
   for (let i=0; i<arrayname.length; i++){
-    console.log(`Thank you, ${array[i]}, for the wonderful ${event} gift!`)
+   let newarry.push(`Thank you, ${array[i]}, for the wonderful ${event} gift!`)
   }
 }
