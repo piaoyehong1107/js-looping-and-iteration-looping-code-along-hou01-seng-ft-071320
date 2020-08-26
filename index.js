@@ -1,3 +1,5 @@
 // Code your solutions in this file
 
-function writeCards(arrayname, eventname)
+function writeCards(arrayname, eventname){
+  
+}
